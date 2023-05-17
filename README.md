@@ -18,6 +18,20 @@ To join the discussions and contribute your thoughts, ideas, and insights:
 
 We believe in maintaining a respectful and inclusive environment for all participants in our discussions. We kindly request that you review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive and welcoming experience for everyone. ✨
 
+## Discussion Guidelines 💬
+
+To ensure meaningful and productive discussions, we kindly request that you follow these guidelines when participating in our discussions:
+
+1. Be respectful and considerate of others' opinions and perspectives.
+2. Stay on topic and keep the discussion focused.
+3. Provide constructive feedback and avoid personal attacks.
+4. Back your arguments with evidence or examples when possible.
+5. Use clear and concise language to express your thoughts.
+
+Remember, the goal of our discussions is to foster collaboration, share knowledge, and generate meaningful insights. Let's create a positive and inclusive environment for everyone involved.
+
+We appreciate your cooperation in following these guidelines and helping us maintain a healthy and productive discussion space.
+
 ## Feedback and Questions ❓
 
 If you have any feedback, questions, or concerns related to the discussions repository or our organization in general, please create a new topic in the [Discussions](https://github.com/orgs/CSEC-ASTU/discussions) section or reach out to the maintainers.
