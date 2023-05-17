@@ -14,7 +14,6 @@ To join the discussions and contribute your thoughts, ideas, and insights:
 2. Participate in ongoing discussions by adding your comments and engaging with other contributors.
 3. Start a new discussion by creating a new topic that interests you. Provide a clear title and description, and feel free to include any relevant context or questions. 💬
 
-Please follow the following guidelines while creating [discussion](https://github.com/CSEC-ASTU/CSEC-ASTU/blob/main/CONTRIBUTING.md).
 ## Code of Conduct 🤝
 
 We believe in maintaining a respectful and inclusive environment for all participants in our discussions. We kindly request that you review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive and welcoming experience for everyone. ✨
